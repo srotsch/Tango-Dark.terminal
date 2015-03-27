@@ -216,7 +216,7 @@
 	<key>name</key>
 	<string>Tango Dark</string>
 	<key>shellExitAction</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
